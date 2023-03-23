@@ -54,6 +54,8 @@ function CallAPI(){
                 case 'Haze':
                     image.src = 'images/mist.png';
                     break;
+                case 'Thunderstorm':
+                    image.src = 'images/thunder.png';
 
                 default:
                     image.src = '';
